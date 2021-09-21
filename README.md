@@ -27,3 +27,9 @@ enter to the API folder and run the following command to launch the api</br>
     $ npm install </br>
     $ ng serve
 
+
+# 📷 Interfaces
+
+![Screen Shot 2021-09-21 at 14 56 46](https://user-images.githubusercontent.com/61889011/134184748-2e7f622a-6446-4325-a514-736418e8a576.jpg)
+
+![Screen Shot 2021-09-21 at 14 57 13](https://user-images.githubusercontent.com/61889011/134184842-3fa6c832-e014-415b-a98e-0452172ca56c.jpg)
